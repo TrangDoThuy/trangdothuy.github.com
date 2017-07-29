@@ -1,0 +1,123 @@
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+#sc_our_team a,
+.sc_our_team_lightbox .name,
+.sc_personal_quote span.sc_team_icon-quote-left {
+    color: #1F7DCF;
+}
+
+.grid#sc_our_team .sc_team_member .sc_team_member_name,
+.grid#sc_our_team .sc_team_member .sc_team_member_jobtitle,
+.grid_circles#sc_our_team .sc_team_member .sc_team_member_jobtitle,
+.grid_circles#sc_our_team .sc_team_member .sc_team_member_name,
+#sc_our_team_lightbox .progress,
+.sc_our_team_panel .sc-right-panel .sc-name,
+#sc_our_team .sc_team_member .icons span,
+.sc_our_team_panel .sc-right-panel .sc-skills .progress,
+#sc_our_team_lightbox .sc_our_team_lightbox .social span,
+.sc_team_single_member .sc_team_single_skills .progress {
+    background: #1F7DCF;
+}
+
+.stacked#sc_our_team .smartcat_team_member {
+    border-color: #1F7DCF;
+}
+
+
+/*.grid#sc_our_team .sc_team_member_inner{ height: px; }*/
+
+.grid#sc_our_team .sc_team_member {
+    padding: 5px;
+}
+
+#sc_our_team_lightbox .sc_our_team_lightbox {
+    margin-top: px
+}
+
+img#wpstats {
+    display: none
+}
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+@font-face {
+    font-family: 'entypo-fontello';
+    font-weight: normal;
+    font-style: normal;
+    src: url('http://www.hpair.org/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+    src: url('http://www.hpair.org/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), url('http://www.hpair.org/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), url('http://www.hpair.org/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), url('http://www.hpair.org/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+}
+
+#top .avia-font-entypo-fontello,
+body .avia-font-entypo-fontello,
+html body [data-av_iconfont='entypo-fontello']:before {
+    font-family: 'entypo-fontello';
+}
+
+.avia-section.av-minimum-height .container {
+    opacity: 1;
+}
+
+.av-minimum-height-100 .container,
+.avia-fullscreen-slider .avia-slideshow,
+#top.avia-blank .av-minimum-height-100 .container,
+.av-cell-min-height-100> .flex_cell {
+    height: 700px;
+}
+
+.av-minimum-height-75 .container,
+.av-cell-min-height-75> .flex_cell {
+    height: 525px;
+}
+
+.av-minimum-height-50 .container,
+.av-cell-min-height-50> .flex_cell {
+    height: 350px;
+}
+
+.av-minimum-height-25 .container,
+.av-cell-min-height-25> .flex_cell {
+    height: 175px;
+}
+
+.avia-builder-el-0.av-minimum-height-100 .container,
+.avia-builder-el-0.avia-fullscreen-slider .avia-slideshow,
+.avia-builder-el-0.av-cell-min-height-100> .flex_cell {
+    height: 700px;
+}
+
+#top .av-solo-full .avia-slideshow {
+    min-height: 0px;
+}
+
+#top .av-element-cover iframe,
+#top .av-element-cover embed,
+#top .av-element-cover object,
+#top .av-element-cover video {
+    height: 758.8125px;
+    top: -29.40625px;
+}
+
+#top .avia-builder-el-0 .av-element-cover iframe,
+#top .avia-builder-el-0 .av-element-cover embed,
+#top .avia-builder-el-0 .av-element-cover object,
+#top .avia-builder-el-0 .av-element-cover video {
+    height: 758.8125px;
+    top: -29.40625px;
+}
